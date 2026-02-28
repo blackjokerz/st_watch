@@ -1,6 +1,6 @@
 # st_watch
 
-A new Flutter plugin project.
+星迈蓝牙手表/手环SDK的flutter插件.
 
 ## Getting Started
 
